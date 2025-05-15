@@ -1,0 +1,12 @@
+{
+  "name": "trucklink-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "trucklink",
+  "main": "src/server.js",
+  "author": "Darzel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
